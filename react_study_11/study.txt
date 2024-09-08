@@ -1,0 +1,6 @@
+HTML Form 
+각 input box가 자체적으로 state를 관리
+
+
+Controlled Component 
+모든 데이터를 state에서 관리
